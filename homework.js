@@ -1,10 +1,12 @@
 //task1
+//http://www.codewars.com/kata/571ec274b1c8d4a61c0000c8
 function helloWorld(){
 var str='Hello World!';
 console.log(str)
 }
 
 //task2
+//http://www.codewars.com/kata/571edd157e8954bab500032d
 var v1=50;v2=100,v3=150,v4=200,v5=2,v6=250
 function equal1(){
   var a=v1   
@@ -34,6 +36,7 @@ function equal5(){
 }
 
 //task3
+//http://www.codewars.com/kata/571edea4b625edcb51000d8e
 var a1="A",a2="a",b1="B",b2="b",c1="C",c2="c",d1="D",d2="d",e1="E",e2="e",n1="N",n2="n"
 function Dad(){
   //select some variable to combine "Dad"
@@ -63,18 +66,21 @@ function answer3(){
 }
 
 //task4
+//http://www.codewars.com/kata/571f832f07363d295d001ba8
 function trueOrFalse(val){
   if (val==false || !val)    return 'false';             
   else     return 'true';
 }
 
 //task5
+https://www.codewars.com/…/convert-a-string-to-a…/javascript
 var stringToNumber = function(str){
   parseFloat(str)
   return  parseFloat(str);
 }
 
 //task6
+//https://www.codewars.com/…/convert-a-boole…/train/javascript
 function booleanToString(b){
   if (b==true)
   return('true')
